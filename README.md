@@ -1,1 +1,1 @@
-# jvlcart
+JVL MERN Ecommerce Website
